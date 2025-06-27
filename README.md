@@ -1,4 +1,4 @@
-# tetrika-test-assignment# Tetrika Test Assignment
+# tetrika-test-assignment
 
 ## 📋 Описание
 
